@@ -18,6 +18,10 @@ h1.content {
   text-align: left;
   font-weight: bold;
 }
+.jobtitle {
+  font-size: 18px;
+  color: steelblue;
+}
 .skills {
 
 }
